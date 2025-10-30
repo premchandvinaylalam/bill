@@ -45,3 +45,15 @@ name = input("enter your name")
 age = int(input("enter your age"))
 random_number = int(input("enter any number"))
 print(f"name of the person is {name} and age is {age}")
+
+
+Company_name = input("Enter the company name")
+current_CTC = input("enter current CTC")
+expected_CTC = input("enter the expected CTC")
+location = input("enter perfered location")
+current_location = input("enter current location")
+print(Company_name)
+print(current_CTC)
+print(expected_CTC)
+print(f"perfered location is {location} and current location is {current_location}")
+
